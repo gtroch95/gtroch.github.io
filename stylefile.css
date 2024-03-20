@@ -1,0 +1,173 @@
+body {
+    background-color: #F5F2F1;
+}
+
+h1 {
+        margin: auto;
+        margin-top: 0px;
+        width: 250px;
+        text-align: center;
+        color: #C33415;
+        font-family: monospace;
+        
+    
+        }
+
+
+h3 {
+    position: fixed;
+    margin: auto;
+    top: 120px;
+    font-family: monospace;
+    font-style: italic;
+       }
+        
+img {
+    width: 750px;
+    height: 567px;
+    margin: auto;
+    margin-top: 0px;
+    position: relative;
+    left: 325px;
+            
+           
+            
+    }
+        
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    font-family: monospace;
+
+            
+        }
+
+
+.list-pos {
+    position: relative;
+    width: 350px;
+    left: -185px;
+    margin-bottom: 150px;
+}
+
+
+ol {
+    font-family: monospace;
+    line-height: 1.5;
+    height: 50px;
+    margin: auto;
+}
+
+
+
+.nav-link {
+    margin: 0;
+    padding: 8px;
+    height: 100%;
+}
+
+nav-link a:link {
+    color: #594157;
+}
+
+.nav-link a:visited {
+    color: #594157;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+li a:visited {
+    color: #594157;
+}
+        
+li a:link {
+    color: #594157;
+        }
+
+li a:hover {
+    color: #922B21;
+
+        }
+
+#bio-text {
+    font-family: monospace;
+    line-height: 1.5;
+    width: 850px;
+    height: 250px;
+    left: 0px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    font-family: monospace;
+    margin: auto;
+    margin-bottom: -75px;
+
+}
+        
+nav {
+    
+    width: 200px;
+    margin: auto;
+    margin-top: 0px;
+    text-align: center;
+    font-family: monospace;
+
+
+}
+
+
+
+#nav2 {
+    position: fixed;
+    top: 150px;
+    left: 0px;
+    display: block;
+    padding: 15px;
+    height: 130px;
+    width: 220px;
+    border-radius: 5px;
+    border: 1px solid red;
+
+        }
+
+
+footer {
+    
+    position: fixed;
+    bottom: 0px;
+    left: 2px;
+    right: 0px;
+    height: 30px;
+    width: 100%;
+    font-family: monospace;
+    margin-top: 25px;
+    
+        }
+
+ table, th, td {
+            margin: auto;
+            font-family: monospace;
+            border: 7px solid #F5F2F1;
+            border-collapse: collapse;
+            border-spacing: 5em;
+        }
+
+.bolded {
+    font-weight: bold;
+    color: #C33415;
+}
+
+.text {
+    font-family: monospace;
+    width: 250px;
+    left: -250px;
+    position: relative;
+    height: 50px;
+    margin: auto;
+    margin-bottom: -20px;
+}
